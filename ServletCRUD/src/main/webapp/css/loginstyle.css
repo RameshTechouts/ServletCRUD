@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #80dfff;
+  padding: 1px;
+  text-align: center;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #80dfff;
+   color: white;
+   text-align: center;
+}
